@@ -36,3 +36,37 @@
 .rodape {
     margin-top: 200px;
 }
+
+#fotos {
+    margin-left: 280px;
+}
+
+.gl {
+    margin-left: 330px;
+}
+
+.gls {
+    margin-left: 105px;
+    margin-right: 25px;
+}
+
+.cardapio {
+    margin-left: 625px;
+}
+
+#loja {
+    margin-left: 590px;
+}
+
+#secao {
+    margin-left: 325px;
+    margin-top: 100px;
+}
+
+.decer {
+    margin-bottom: 100px;
+}
+
+#pl {
+    background-color: rgb(162, 98, 30);
+}
