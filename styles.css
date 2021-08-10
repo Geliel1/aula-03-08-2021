@@ -2,12 +2,25 @@
     margin-left: 350px;
 }
 
+#videos {
+    background-color: rgb(0, 0, 0);
+    color: red;
+}
+
 #div1 span {
     color: blueviolet;
 }
 
 #img {
     margin-left: 400px;
+}
+
+#naveg {
+    margin-left: 36%;
+}
+
+#tec {
+    margin-left: 16%;
 }
 
 #aside {
@@ -30,6 +43,29 @@
 
 .textos {
     margin-left: 2%;
+}
+
+.junto {
+    margin-top: 100px;
+    margin-left: 20%;
+    font-size: x-large;
+}
+
+.junto asid {
+    font-size: x-small;
+}
+
+.descricao {
+    font-size: 19px;
+    margin-left: 300px;
+}
+
+.descricao h3 {
+    margin-left: 300px;
+}
+
+.cabeca h1 {
+    margin-left: 400px;
 }
 
 .autoria {
